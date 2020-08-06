@@ -1,0 +1,84 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+img.pic1 {
+    width: 1300px;
+    height: 100px;
+}
+
+
+
+
+#list{
+     left:0px;
+    width: 1300px;
+    height: 60px;
+    background-color: #EEEEEE;
+  
+    
+}
+
+#list ul{
+    float: left;
+    line-height: 50px;
+    font-weight: bold;
+}
+
+#list ul li{
+    float: left;
+    list-style: none;
+    padding-right: 20px;
+    color: black;
+    font-size: 18px;
+    text-align: center;
+}
+
+#main-slide{
+    width: 1300px;
+    margin:100 1000px;
+    margin-top: 20px;
+     
+}
+
+
+img.pic2{
+    width: 1300px;
+    height: 400px;
+}
+
+
+img.pic3{
+    width: 1300px;
+    height: 400px;
+}
+
+
+img.pic4{
+    width: 1300px;
+    height: 400px;
+}
+
+
+
+
+#main-contact{
+    float: left;
+    width: 50%;
+    
+}
+
+footer{
+    clear: both;
+    margin-bottom: auto;
+    width: 1300px;
+    height: 60px;
+    bottom: 0;
+    left: 0px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    line-height: 60px;
+    position: absolute;
+}
